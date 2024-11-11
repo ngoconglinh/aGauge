@@ -75,4 +75,4 @@ Available view attributes:
 ```
 &nbsp;
 
-***from*** [![](https://github.com/pkleczko/CustomGauge)]
+***from*** [https://github.com/pkleczko/CustomGauge](https://github.com/pkleczko/CustomGauge)
